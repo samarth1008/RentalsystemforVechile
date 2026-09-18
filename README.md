@@ -1,7 +1,7 @@
-# Vehicle Rental System
+# Rental system for vehicle
 
 ## Project Description
-The Vehicle Rental System is a Java-based console application that manages vehicles, customers, rentals, returns, billing, and rental history. It uses Object-Oriented Programming, ArrayList, methods, inheritance, polymorphism, and file handling.
+The Rental system for vehicle is a Java-based console application that manages vehicles, customers, rentals, returns, billing, and rental history. It uses Object-Oriented Programming, ArrayList, methods, inheritance, polymorphism, and file handling.
 
 ## Features
 - Add, display, search, and remove vehicles
@@ -97,7 +97,7 @@ Data is loaded when the application starts and can be saved through the applicat
 - **Composition:** `Rental` contains references to `Customer` and `Vehicle`.
 
 ## Author
-**Ankit Nag**
+**Samarth Mishra**
 
 B.Tech CSE (AI & ML)  
 VIT Bhopal
